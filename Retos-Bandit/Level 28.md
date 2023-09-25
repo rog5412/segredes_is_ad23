@@ -23,6 +23,6 @@ copiar password
 |**Comandos**|**Descripcion**|
 |--------|-------------|
 |git clone|Clona un repositorio de github remoto especificado.|
-
+|mktemp -d|Crea un directorio temporal y muestra la ruta en pantalla.|
 ## Referencias
 
