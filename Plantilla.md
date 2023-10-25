@@ -3,9 +3,6 @@
 
 ## Datos de Acceso al Nivel
 ```
-Server: bandit.labs.overthewire.org
-User: bandit
-password : 
 ```
 ## Solucion
 ```Bash
